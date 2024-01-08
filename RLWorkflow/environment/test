@@ -1,0 +1,22 @@
+// DAG
+digraph {
+	0 [label="0:93706240"]
+	1 [label="1:112510293"]
+	2 [label="2:149691733"]
+	3 [label="3:111783253"]
+	4 [label="4:59351040"]
+	5 [label="5:120722773"]
+	6 [label="6:134362453"]
+	7 [label="7:54497280"]
+	8 [label="8:33392640"]
+	9 [label="9:153801387"]
+	0 -> 1 [label=28111872.000000 constraint=true]
+	1 -> 2 [label=33753088.000000 constraint=true]
+	2 -> 3 [label=44907520.000000 constraint=true]
+	3 -> 4 [label=33534976.000000 constraint=true]
+	4 -> 5 [label=17805312.000000 constraint=true]
+	5 -> 6 [label=36216832.000000 constraint=true]
+	6 -> 7 [label=40308736.000000 constraint=true]
+	7 -> 8 [label=16349184.000000 constraint=true]
+	8 -> 9 [label=10017792.000000 constraint=true]
+}
